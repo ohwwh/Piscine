@@ -1,0 +1,12 @@
+ex00
+
+ex01
+
+ex02
+
+ex03
+
+ex04
+https://hand-over.tistory.com/25
+ex05
+https://kirkim.github.io/c/2021/02/11/strstr_strnstr.html

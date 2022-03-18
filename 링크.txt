@@ -1,0 +1,102 @@
+Ex00
+
+
+Ex01
+
+
+Ex02
+Ls- l 명령어가 주는 정보에 대해 이해할 수 있는가?
+Chmod 로 각 사용자 별로 적절한 권한을 줄 수 있는가?
+Dd -f/dev/zero로 적절한 크기의 파일을 생성할 수 있는가?
+하드링크와 심볼릭링크의 개념을 이해하고 파일/디렉토리간 적절한 링크관계를 만들 수 있는가?
+시간을 바꿀수 있는가 touch -t 명령어
+https://ttend.tistory.com/765
+https://info-lab.tistory.com/302
+
+
+
+Ex03
+
+
+Ex04
+
+
+Ex05
+https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0
+
+Ex06
+https://git-scm.com/docs/git-ls-files
+git -ls-files -o -I --exclude-standard
+
+Ex07
+https://man7.org/linux/man-pages/man1/patch.1.html
+
+
+Ex08
+https://recipes4dev.tistory.com/156
+
+https://books.google.co.kr/books?id=TcMXEAAAQBAJ&pg=PA137&lpg=PA137&dq=find+%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84+backslash&source=bl&ots=cymdHd2I_B&sig=ACfU3U2bw4xOIbPd99q61Xj-FpRdiUA8Ag&hl=ko&sa=X&ved=2ahUKEwjs8v2DkrPzAhVrQ_UHHbarB48Q6AF6BAgUEAM#v=onepage&q=find%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20backslash&f=false
+
+https://unix.stackexchange.com/questions/167823/finds-exec-rm-vs-delete
+
+
+Ex09
+https://www.ibm.com/docs/en/zos/2.3.0?topic=formats-magic-format-etcmagic-file
+https://cweiske.de/tagebuch/custom-magic-db.htm
+https://devanix.tistory.com/180
+
+
+Ex01
+환경변수 등록 및 삭제
+그룹 생성
+https://sosobaba.tistory.com/279
+https://linuxize.com/post/how-to-list-groups-in-linux/
+
+
+Ex02
+https://exploreinformatica.com/how-to-get-only-filename-from-find-command-in-linux/
+
+
+
+Ex03
+Find 명령어와 or 연산자
+Tr -d 명령어
+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
+
+Ex04
+맥주소 개념
+https://jhnyang.tistory.com/404
+
+Ex05 
+파일 명에 들어간 특수문자 다루기
+https://cets.seas.upenn.edu/answers/bad-name.html
+Vim 에서 파일 끝 개행 문자 지우기 & 파일 내용 2진수로 확인하기(개행문자까지 확인)
+Od -c
+:set binary
+:set Noel
+
+Ex06
+Sed 명령어
+https://unix.stackexchange.com/questions/26723/print-odd-numbered-lines-print-even-numbered-lines
+https://stackoverflow.com/questions/51614959/display-one-line-of-two-with-
+sed#:~:text=sed%20%2Dn%20'p%3Bn',-%2Dn%20suppresses%20all&text=p%20prints%20the%20current%20line,again%20on%20this%20new%20line
+https://jhnyang.tistory.com/287
+https://reakwon.tistory.com/164
+Sed subcommand n ,p 리눅스 메타문자 ;, 리눅스 메타문자 | 의미 알아둘 것
+Awk 명령어
+https://unix.stackexchange.com/questions/26723/print-odd-numbered-lines-print-even-numbered-lines
+https://recipes4dev.tistory.com/171
+
+Ex07
+Sed명령어
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=neojsy&logNo=220289936131
+개행을 콤마로 바꾸는 sed명령어 해설(페이지 맨 밑)
+https://www.unix.com/shell-programming-and-scripting/152214-replace-newline-comma.html
+awk명령어
+https://zetawiki.com/wiki/Awk_필드_구분자_변경하여_출력
+
+Passwd파일의 구조
+
+Ex08
+메타문자 문자열내에서 쓰는 법(무시하는 법)
+https://settembre.tistory.com/65

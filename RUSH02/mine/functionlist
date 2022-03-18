@@ -1,0 +1,17 @@
+unsigned int ft_atoi(char *str);
+char ft_strlen(char *str);
+char *ft_strdup(int from, int to, char *str);
+int total(int size, char **strs, char *sep);
+char *ft_strjoin(int size, char *strs, char *sep);
+int count_sep(char *str, char sep);
+char **ft_split(char *str, char sep);
+char *ft_strip(char *str);
+int check_dict_num(int to, char *str);
+int check_arg_num(char *str);
+int check_valid(char *str);
+char *get_value(unsigned int key, char **dict, int flag);
+void putstr(char *str);
+void print_digit(int i, char *str, char **dict);
+int print(int i, int num, char **dict);
+char *get_buf(char *file);
+
